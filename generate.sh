@@ -72,9 +72,9 @@ $apps_script
 $rom_script
 
 PRODUCT_NAME := $target
-PRODUCT_DEVICE := phhgsi_${arch}_$part
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := Phh-Treble $apps_name
+PRODUCT_DEVICE := 5059d_${arch}_$part
+PRODUCT_BRAND := TLC
+PRODUCT_MODEL := Alcatel 1X
 
 PRODUCT_PACKAGES += $extra_packages
 EOF
